@@ -7,5 +7,5 @@ int main() {
     cin >> num1;
     double num2 = num1*num1;
     cout << "Get Squared: " << num2;
-   
+
 }

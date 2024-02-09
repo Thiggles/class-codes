@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     double TempF;
-    cout << "Please enter temperature in Farenheit.";
+    cout << "Please enter temperature in Fahrenheit: ";
     cin >> TempF;
     double TempC;
     TempC= (TempF - 32) * 5/9;
