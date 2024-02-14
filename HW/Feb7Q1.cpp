@@ -1,7 +1,8 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int main() {
+int main()
+{
     int base;
     cout << "Enter length of base: ";
     cin >> base;
