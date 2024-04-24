@@ -2,13 +2,11 @@
 using namespace std;
 
 int main() {
-    int n;
-    cin >> n;
-    int fact = 1;
-    int i = 2;
-    while ( i <= n) {
-        fact *= i;
-        i++;
-    }
-    cout << fact << endl;
+ string s1;
+ string res = " ";
+ int i = 0;
+ while(i < s1.length()){
+
+ }
 }
+    

@@ -7,9 +7,7 @@ int main() {
     cout << "enter a sentence";
     bool wordStarted = false;
     getline(cin , s);
-    for (int i; i >= s.length();) {
-        if(( s[i] >= 'a' && s[i] <= 'z') or ( s[i] <= 'A' && s[i] >= 'Z')){
-        wordStarted= true;
+
             } else if (s[i] == ' ') {
                 words++;
                 wordStarted = false;
